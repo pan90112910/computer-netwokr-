@@ -13,7 +13,7 @@ WHY Layering為何要分層?
 (B)運作在那一層?
 (C)主要功能
 (D)相關工具或伺服器
---------------------
+
 # application層
 HTTP vs HTTPS
 FTP vs SFTP | FTPS
@@ -32,7 +32,7 @@ SNMP
 RTMP RTSP
 
 MQTT
---
+
 # transport層
 TCP 與UDP的差異
 [1]須說明reliable(可靠) vs un-reliable(不可靠)
@@ -42,10 +42,10 @@ TCP 與UDP的差異
 [3]封包格式 TCP format   vs UDP format 
 IP vs IPsec
 ICMP
------------
+
 # 連結層
 ARP
-----------
+
 # 網路硬體設備 Network Devices
 簡述底下網路設備:須說明
 (A)運作在OSI那一層?
@@ -57,7 +57,7 @@ ARP
 (3) Router
 (4) L4 Switch
 (5) Proxy 
---
+
 # 各種address位址
 PORT address
 IP address
